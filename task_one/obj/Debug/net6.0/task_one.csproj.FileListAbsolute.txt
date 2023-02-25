@@ -1,0 +1,15 @@
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\bin\Debug\net6.0\task_one.exe
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\bin\Debug\net6.0\task_one.deps.json
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\bin\Debug\net6.0\task_one.runtimeconfig.json
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\bin\Debug\net6.0\task_one.dll
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\bin\Debug\net6.0\task_one.pdb
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\obj\Debug\net6.0\task_one.csproj.AssemblyReference.cache
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\obj\Debug\net6.0\task_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\obj\Debug\net6.0\task_one.AssemblyInfoInputs.cache
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\obj\Debug\net6.0\task_one.AssemblyInfo.cs
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\obj\Debug\net6.0\task_one.csproj.CoreCompileInputs.cache
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\obj\Debug\net6.0\task_one.dll
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\obj\Debug\net6.0\refint\task_one.dll
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\obj\Debug\net6.0\task_one.pdb
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\obj\Debug\net6.0\task_one.genruntimeconfig.cache
+C:\Users\Timur\Desktop\Репозиторий\c_sharp_learning_sem_one\task_one\obj\Debug\net6.0\ref\task_one.dll
