@@ -16,7 +16,7 @@ double[,] FillArray(int m, int n)
     {
         for(int j = 0; j< arr.GetLength(1); j++)
         {
-            arr[i, j] = Math.Truncate(new Random().NextDouble() * 100) / 100;
+            arr[i, j] = Math.Truncate(new Random().NextDouble() * 100) / 10;
         }
     }
     return arr;
