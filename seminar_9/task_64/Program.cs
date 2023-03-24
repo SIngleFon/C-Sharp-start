@@ -1,23 +1,20 @@
-﻿// Задача 66: Задайте значения M и N. Напишите программу, которая найдёт сумму натуральных элементов в промежутке от M до N.
+﻿// Задача 64: Задайте значение N. Напишите программу, которая выведет все натуральные числа в промежутке от N до 1. Выполнить с помощью рекурсии.
 
-// M = 1; N = 15 -> 120
-// M = 4; N = 8. -> 30 ---- 4 5 6 7 8
+// N = 5 -> "5, 4, 3, 2, 1"
+// N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
 
+int A = StringMessage("Введите N: ", "Ошибка ввода.");
+Console.Write($"{A}, ");
+Rekurs(A);
 
-int M = StringMessage("Введите M: ", "Ошибка ввода.");
-int N = StringMessage("Введите N: ", "Ошибка ввода.");
-int Sum = Rekursion(M, N);
-Console.Write(Sum);
-
-
-int Rekursion(int M, int N)
+void Rekurs(int A)
 {
-    int count = 0;
-    for (int i = M; i <= N; N--)
+    if (A > 1)
     {
-        count = count + N;
+        A = A - 1;
+        Console.Write($"{A}, ");
+        Rekurs(A);
     }
-    return count;
 }
 
 int StringMessage(string msg, string error)
