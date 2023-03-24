@@ -1,7 +1,7 @@
 ﻿// Напишите программу, которая заполнит спирально массив 4 на 4.
 // Например, на выходе получается вот такой массив:
-const int rows = 4;
-const int col = 4;
+const int rows = 5;
+const int col = 5;
 int[,] arr = new int[rows, col];
 FillArray(arr);
 PrintArray(arr);
