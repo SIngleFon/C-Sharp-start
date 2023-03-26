@@ -10,15 +10,28 @@ int Sum = Rekursion(M, N);
 Console.Write(Sum);
 
 
-int Rekursion(int M, int N)
+static int Rekursion(int M, int N)
 {
-    int count = 0;
-    for (int i = M; i <= N; N--)
+    if (N == M)
     {
-        count = count + N;
+        return N;
     }
-    return count;
+    else 
+    {
+        return N + Rekursion(M, N-1);
+    }
 }
+
+//ver.2
+// int Rekursion(int M, int N)
+// {
+//     int count = 0;
+//     for (int i = M; i <= N; N--)
+//     {
+//         count = count + N;
+//     }
+//     return count;
+// }
 
 int StringMessage(string msg, string error)
 {
